@@ -1,0 +1,7 @@
+C:\Users\sreerag.babu\Documents\C# Practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sreerag.babu\Documents\C# Practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sreerag.babu\Documents\C# Practice\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sreerag.babu\Documents\C# Practice\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\sreerag.babu\Documents\C# Practice\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\Documents\C# Practice\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sreerag.babu\Documents\C# Practice\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
